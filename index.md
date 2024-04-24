@@ -5,8 +5,8 @@ layout: home
 hero:
   
   name: "我的文档项目"
-  text: "是一个文档网站"
-  tagline: "学习可能就是从现在开始的"
+  text: "是一条小猫"
+  tagline: "学习可能就是从喵喵开始的"
   image:
      src: /background.png
      alt: 背景图
